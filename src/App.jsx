@@ -1,6 +1,4 @@
-import { useState } from 'react'
 import scarecrow from './assets/scarecrow.png'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
